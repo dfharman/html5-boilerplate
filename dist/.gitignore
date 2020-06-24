@@ -5,4 +5,8 @@ node_modules
 dist
 .cache
 
+# Ignore file
 /credentials.txt
+
+# Ignore text files in folder
+txt/*.txt
